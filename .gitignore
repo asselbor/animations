@@ -1,0 +1,3 @@
+build/
+animations/*.pyc
+*.pyc

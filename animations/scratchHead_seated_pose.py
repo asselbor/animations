@@ -55,9 +55,9 @@ names.append("LShoulderRoll")
 times.append([0.76, 1.4, 2, 2.6, 3.32, 4, 4.8])
 keys.append([0.15796, 0.210117, 0.200912, 0.20398, 0.101202, 0.101202, 0.156426])
 
-#names.append("LWristYaw")
-#times.append([4.8])
-#keys.append([-0.687274])
+names.append("LWristYaw")
+times.append([4.8])
+keys.append([-0.687274])
 
 #names.append("RAnklePitch")
 #times.append([4.72])
